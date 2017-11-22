@@ -1,0 +1,11 @@
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\bin\Release\netcoreapp2.0\ContactList.deps.json
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\bin\Release\netcoreapp2.0\ContactList.runtimeconfig.json
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\bin\Release\netcoreapp2.0\ContactList.runtimeconfig.dev.json
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\bin\Release\netcoreapp2.0\ContactList.dll
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\bin\Release\netcoreapp2.0\ContactList.pdb
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\obj\Release\netcoreapp2.0\ContactList.csprojResolveAssemblyReference.cache
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\obj\Release\netcoreapp2.0\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\obj\Release\netcoreapp2.0\ContactList.AssemblyInfoInputs.cache
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\obj\Release\netcoreapp2.0\ContactList.AssemblyInfo.cs
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\obj\Release\netcoreapp2.0\ContactList.dll
+C:\Users\Philipp Gusenleitner\Desktop\ContactList\ContactList\obj\Release\netcoreapp2.0\ContactList.pdb
