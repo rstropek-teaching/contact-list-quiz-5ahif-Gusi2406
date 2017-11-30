@@ -23,6 +23,9 @@ namespace ContactList
             return Ok(persons); //How do you give the User a Message with the Status Code like "Successful Operation"?
         }
 
+        // Note that your route is not correct. The Swagger definition requires the nameFilter
+        // to be part of the QUERY not of the URL Path. You should use the `FromQuery` attribute here.
+
         // GET: api/contacts/Name
         [HttpGet("findByName/{nameFilter}", Name = "Get")]
         public IActionResult Get(string nameFilter)
@@ -64,6 +67,7 @@ namespace ContactList
             }
             else
             {
+                // RemoveAt does not remove the person with the specified ID but the n-th person in the collection.
                 persons.RemoveAt(id);
                 return StatusCode(204, "Successful Operation");
             }
